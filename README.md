@@ -1,21 +1,19 @@
-**NFL Agency Endorsement Analytics**  
+# NFL Agency Endorsement Analytics  
 End-to-end SQL project analyzing NFL endorsement deals, brand performance metrics, and player marketability scoring.
 
-**Overview**  
+## Overview 
 Sports agencies analyze their deal portfolios and performance to understand which partnerships generate the most value and align with their clients’ brands. This helps them make more informed decisions when negotiating future deals and allocating resources. By evaluating performance, agencies can also identify gaps and adjust strategies to stay competitive in a constantly evolving market.
 
-**Tools Used**
-
+### Tools Used
 * SQL \- DB Browser for SQLite  
 * Data \- Kaggle NFL datasets \+ synthetic endorsement data  
 * Visualization \- Tableau  
 * Data Preparation \- Microsoft Excel
 
-**Database Structure**  
+### Database Structure  
 The database includes four main tables that capture different parts of an agency’s portfolio. The players table stores information about each athlete, while the brands table contains details on the companies involved in endorsements. These two are connected through the endorsement\_deals table, which acts as a bridge by linking each player to a specific brand and recording deal details like value and type. The deal\_performance table then connects to endorsement\_deals, adding outcome metrics such as revenue lift to evaluate how each deal performs after it is signed.
 
-**Business Questions Answered**
-
+### Business Questions Answered
 1. Which players generate the highest total endorsement revenue across all deals?
 
 2. Which brands invest the most in athlete partnerships and how are those investments distributed?
@@ -36,8 +34,7 @@ The database includes four main tables that capture different parts of an agency
 
 10. How can agencies optimize future deal negotiations based on past performance data?
 
-**Recommendations:**
-
+### Recommendations
 1. The agency should shift its deal strategy toward higher-value opportunities by prioritizing Auto and Finance partnerships while setting a minimum deal threshold to avoid low-return contracts. This will improve overall portfolio efficiency and ensure agent time is spent on the most impactful deals.
 
 2. There is a clear need to renegotiate and maximize value from Elite-tier players, who are currently underperforming relative to their market status. At the same time, the agency should invest in developing RBs, WRs, and defensive players to expand its pool of high-earning clients and reduce overreliance on quarterbacks.
