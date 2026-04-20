@@ -45,6 +45,8 @@ The database includes four main tables that capture different parts of an agency
 
 5. Finally, the agency should conduct a deeper review of year-over-year performance dips and player-brand mismatches to refine its strategy. Understanding past declines and improving how players are matched with brands will help sustain long-term growth and unlock untapped value across the portfolio.
 
+**[Key Insights](KEY_INSIGHTS.md)**
+
 **Dashboard: [NFL Agency Endorsement Analytics Dashboard](https://public.tableau.com/views/NFLSportAgencyEndorsementAnalytics/NFLAgencyEndorsementAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Project Status:** Done
