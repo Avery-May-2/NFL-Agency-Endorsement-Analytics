@@ -11,7 +11,6 @@ SELECT COUNT(*) AS deal_count FROM endorsement_deals;
 SELECT COUNT(*) AS performance_count FROM deal_performance;
 ```
 
-![Query 1](paste your image URL here)
 
 **Insight:** The agency currently manages 150 active and historical endorsement 
 deals across 64 players and 20 brand partners, generating a total portfolio of 
